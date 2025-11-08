@@ -1,0 +1,5 @@
+Credits & Attributions
+
+- Light Reference Starter Pack assembled by Queue Development LLC.
+- Primitive OBJ models (cube, low‑poly sphere) generated procedurally for this pack; free to use.
+- If you add or redistribute other models, include their license here.

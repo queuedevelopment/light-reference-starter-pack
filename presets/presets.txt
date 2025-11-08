@@ -1,0 +1,26 @@
+Preset Reference (copy-friendly)
+
+[Three-Point / Neutral]
+Key: Az 35°, El 25°, Intensity 1.0, Temp 5200K, Softness 0.6, Distance 2.5, Beam 45°
+Fill: Level 0.25, Temp 6500K
+Rim: Az −140°, El 15°, Intensity 0.7, Temp 6000K
+
+[Rim / High Drama]
+Key: Az −80°, El 20°, Intensity 0.7, Temp 4800K, Softness 0.4, Distance 2.0, Beam 35°
+Fill: Level 0.10, Temp 7000K
+Rim: Az 160°, El 10°, Intensity 1.0, Temp 6500K
+
+[Split / Graphic]
+Key: Az 90°, El 15°, Intensity 1.0, Temp 5200K, Softness 0.3, Distance 2.0, Beam 30°
+Fill: Level 0.00, Temp 6500K
+Rim: Az −90°, El 10°, Intensity 0.5, Temp 6000K
+
+[Silhouette]
+Key: Off
+Fill: Level 0.00
+Rim: Az 180°, El 5°, Intensity 1.0, Temp 7000K
+
+[Warm Key / Cool Fill]
+Key: Az 40°, El 25°, Intensity 1.0, Temp 4200K, Softness 0.6, Distance 2.3, Beam 40°
+Fill: Level 0.30, Temp 8000K
+Rim: Az −150°, El 12°, Intensity 0.6, Temp 6000K
